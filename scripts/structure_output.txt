@@ -1,0 +1,776 @@
+﻿
+============================================================
+PRE_MID: CBSE KA TN 6-9 PRE MID TERM Marks Entry Format (1) (8).xlsx
+Sheets: ['4-6-A', '4-6-B', '4-6-C', '4-7-A', '4-7-B', '4-7-C', '4-8-A', '4-8-B', '4-8-C', '4-9-A', '4-9-B', '4-9-C', '15-6-A', '15-6-B', '15-6-C', '15-7-A', '15-7-B', '15-7-C', '15-8-A', '15-8-B', '15-8-C', '15-9-A', '15-9-B', '15-9-C']
+
+  -- Sheet: 4-6-A (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS930995', 'SHIVAM KUMAR', 'KA Central Techno', 6, 'A', 9, 9, 6, 8, 8, 7, 47, 30, 25, 31, 30, 24, 15, 155, 39, 34, 37, 38, 32, 22, 202)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS629222', 'ARYAN.S REDDY', 'KA Central Techno', 6, 'A', 7, 8, 7, 6, 7, 7, 42, 18, 19, 18, 13, 17, 17, 102, 25, 27, 25, 19, 24, 24, 144)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS636061', 'YEDLA JITIN', 'KA Central Techno', 6, 'A', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB')
+
+  -- Sheet: 4-6-B (rows=33, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS690489', 'VARSHANA Y', 'KA Central Techno', 6, 'B', 7, 6, 7, 7, 8, 7, 42, 29, 13, 3, 3, 13, 19, 80, 36, 19, 10, 10, 21, 26, 122)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1214087', 'GRANDHI JASWANTH', 'KA Central Techno', 6, 'B', 4, 7, 7, 6, 5, 5, 34, 36, 22, 19, 27, 28, 19, 151, 40, 29, 26, 33, 33, 24, 185)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1050418', 'VISHAL S A', 'KA Central Techno', 6, 'B', 7, 6, 6, 8, 8, 8, 43, 32, 18, 25, 23, 25, 15, 138, 39, 24, 31, 31, 33, 23, 181)
+
+  -- Sheet: 4-6-C (rows=35, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS730241', 'MANISH N.R', 'KA Central Techno', 6, 'C', 9, 8, 9, 9, 10, 10, 55, 14, 7, 17, 17, 29, 19, 103, 23, 15, 26, 26, 39, 29, 158)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1362620', 'TEJASHWINI GOWDA H', 'KA Central Techno', 6, 'C', 10, 10, 10, 10, 10, 10, 60, 38, 36, 39, 36, 39, 40, 228, 48, 46, 49, 46, 49, 50, 288)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1334055', 'GOWRAV R', 'KA Central Techno', 6, 'C', 10, 8, 10, 10, 10, 10, 58, 20, 16, 24, 20, 34, 25, 139, 30, 24, 34, 30, 44, 35, 197)
+
+  -- Sheet: 4-7-A (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS632478', 'SANDHYA S', 'KA Central Techno', 7, 'A', 10, 9, 10, 10, 10, 10, 59, 38, 38, 39, 36, 39, 37, 227, 48, 47, 49, 46, 49, 47, 286)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS570603', 'HAASINI S', 'KA Central Techno', 7, 'A', 8, 8, 10, 10, 10, 10, 56, 34, 30, 16, 24, 34, 38, 176, 42, 38, 26, 34, 44, 48, 232)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS571744', 'NANDAN KALLUR', 'KA Central Techno', 7, 'A', 9, 10, 8, 9, 9, 10, 55, 31, 33, 29, 28, 28, 32, 181, 40, 43, 37, 37, 37, 42, 236)
+
+  -- Sheet: 4-7-B (rows=35, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS848048', 'PRANAVI ACHARYA', 'KA Central Techno', 7, 'B', 10, 8, 10, 10, 10, 8, 56, 36, 29, 40, 35, 40, 23, 203, 46, 37, 50, 45, 50, 31, 259)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1555963', 'S INIYA', 'KA Central Techno', 7, 'B', 10, 10, 9, 10, 9, 9, 57, 37, 36, 33, 33, 35, 34, 208, 47, 46, 42, 43, 44, 43, 265)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1776059', 'TARUN K M', 'KA Central Techno', 7, 'B', 10, 9, 9, 8, 6, 6, 48, 33, 36, 33, 31, 34, 18, 185, 43, 45, 42, 39, 40, 24, 233)
+
+  -- Sheet: 4-7-C (rows=36, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS637045', 'SATHWIK REDDY A', 'KA Central Techno', 7, 'C', 8, 8, 9, 8, 8, 8, 49, 28, 16, 23, 26, 20, 22, 135, 36, 24, 32, 34, 28, 30, 184)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS616218', 'JAYANTH GOWDA G.R.', 'KA Central Techno', 7, 'C', 8, 7, 10, 8, 8, 8, 49, 27, 6, 26, 25, 35, 23, 142, 35, 13, 36, 33, 43, 31, 191)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS617288', 'VAIBHAV RAO M', 'KA Central Techno', 7, 'C', 10, 10, 10, 10, 10, 10, 60, 37, 40, 40, 38, 38, 40, 233, 47, 50, 50, 48, 48, 50, 293)
+
+  -- Sheet: 4-8-A (rows=44, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS718106', 'JAYASREE RAMAYANAM', 'KA Central Techno', 8, 'A', 8, 8, 8, 9, 5, 7, 45, 29, 11, 14, 5, 26, 19, 104, 37, 19, 22, 14, 31, 26, 149)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS529488', 'MADIHA FATHIMA M', 'KA Central Techno', 8, 'A', 8, 8, 8, 9, 6, 7, 46, 26, 23, 22, 9, 24, 23, 127, 34, 31, 30, 18, 30, 30, 173)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS530559', 'DHASHINI S', 'KA Central Techno', 8, 'A', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB')
+
+  -- Sheet: 4-8-B (rows=42, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS881988', 'SOHAN K K', 'KA Central Techno', 8, 'B', 8, 9, 8, 9, 8, 9, 51, 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 8, 9, 8, 9, 8, 9, 51)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS738580', 'PRATUSHA M', 'KA Central Techno', 8, 'B', 8, 10, 8, 10, 8, 10, 54, 25, 19, 21, 22, 20, 23, 130, 33, 29, 29, 32, 28, 33, 184)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS739146', 'NIKITHA R', 'KA Central Techno', 8, 'B', 9, 8, 7, 9, 7, 8, 48, 17, 12, 16, 6, 6, 17, 74, 26, 20, 23, 15, 13, 25, 122)
+
+  -- Sheet: 4-8-C (rows=40, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS736719', 'DHANYA V', 'KA Central Techno', 8, 'C', 10, 9, 10, 7, 10, 9, 55, 37, 35, 35, 29, 38, 31, 205, 47, 44, 45, 36, 48, 40, 260)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS532603', 'HARSHAVARDHAN M', 'KA Central Techno', 8, 'C', 8, 6, 8, 7, 6, 8, 43, 17, 18, 21, 7, 17, 12, 92, 25, 24, 29, 14, 23, 20, 135)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS554774', 'HARSHINI A', 'KA Central Techno', 8, 'C', 8, 8, 8, 8, 10, 9, 51, 33, 32, 18, 27, 38, 30, 178, 41, 40, 26, 35, 48, 39, 229)
+
+  -- Sheet: 4-9-A (rows=47, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS443149', 'P.DURGESH REDDY', 'KA Central Techno', 9, 'A', 6, 7, 7, 7, 8, 35, 36, 23, 34, 30, 30, 153, 42, 30, 41, 37, 38, 188)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS304631', 'PRAVALIKA DEVI P', 'KA Central Techno', 9, 'A', 10, 9, 10, 9, 8, 46, 37, 31, 30, 32, 31, 161, 47, 40, 40, 41, 39, 207)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS315654', 'MANASWINI THAMBARA', 'KA Central Techno', 9, 'A', 8, 6, 7, 6, 7, 34, 25, 14, 19, 15, 12, 85, 33, 20, 26, 21, 19, 119)
+
+  -- Sheet: 4-9-B (rows=45, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS981374', 'V MAHASHVIN REDDY', 'KA Central Techno', 9, 'B', 10, 8, 7, 8, 7, 40, 34, 14, 26, 28, 28, 130, 44, 22, 33, 36, 35, 170)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS695241', 'REDDY BHAVYA SREE M', 'KA Central Techno', 9, 'B', 7, 8, 7, 7, 7, 36, 22, 11, 26, 23, 12, 94, 29, 19, 33, 30, 19, 130)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS695247', 'KEERTHANA M', 'KA Central Techno', 9, 'B', 9, 10, 9, 8, 8, 44, 33, 29, 30, 27, 26, 145, 42, 39, 39, 35, 34, 189)
+
+  -- Sheet: 4-9-C (rows=41, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS395288', 'KUSHALA. S', 'KA Central Techno', 9, 'C', 7, 8, 8, 8, 8, 39, 16, 22, 23, 24, 10, 95, 23, 30, 31, 32, 18, 134)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS575661', 'DARSHIKA G', 'KA Central Techno', 9, 'C', 8, 8, 8, 9, 8, 41, 25, 19, 24, 17, 14, 99, 33, 27, 32, 26, 22, 140)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS640756', 'DEEKSHA K.J', 'KA Central Techno', 9, 'C', 8, 8, 8, 8, 9, 41, 24, 19, 25, 10, 14, 92, 32, 27, 33, 18, 23, 133)
+
+  -- Sheet: 15-6-A (rows=42, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS829543', 'AARADHYA MAHARATHI', 'KA Central CBatch', 6, 'A', 9, 8, 9, 9, 9, 9, 53, 38, 27, 39, 23, 28, 28, 183, 47, 35, 48, 32, 37, 37, 236)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS684894', 'NIRANJANA C S', 'KA Central CBatch', 6, 'A', 8, 8, 8, 10, 8, 8, 50, 38, 24, 32, 26, 31, 39, 190, 46, 32, 40, 36, 39, 47, 240)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS685932', 'KUSHITHA Y', 'KA Central CBatch', 6, 'A', 9, 7, 7, 9, 9, 9, 50, 39, 14, 26, 28, 38, 28, 173, 48, 21, 33, 37, 47, 37, 223)
+
+  -- Sheet: 15-6-B (rows=40, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS680141', 'SHOSSANA NASYA MANNE', 'KA Central CBatch', 6, 'B', 10, 9, 9, 8, 8, 8, 52, 34, 29, 40, 17, 30, 19, 169, 44, 38, 49, 25, 38, 27, 221)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1717112', 'YUVIKA GAUR', 'KA Central CBatch', 6, 'B', 9, 8, 9, 6, 7, 7, 46, 34, 24, 30, 11, 22, 17, 138, 43, 32, 39, 17, 29, 24, 184)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1719739', 'HARSH TIWARI', 'KA Central CBatch', 6, 'B', 7, 7, 8, 7, 9, 7, 45, 37, 30, 38, 31, 36, 35, 207, 44, 37, 46, 38, 45, 42, 252)
+
+  -- Sheet: 15-6-C (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS685988', 'MANASVI G', 'KA Central CBatch', 6, 'C', 8, 8, 10, 10, 9, 8, 53, 36, 22, 36, 28, 30, 26, 178, 44, 30, 46, 38, 39, 34, 231)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1734541', 'P BHAVADEEP REDDY', 'KA Central CBatch', 6, 'C', 7, 7, 8, 8, 8, 8, 46, 37, 16, 27, 15, 24, 28, 147, 44, 23, 35, 23, 32, 36, 193)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1754306', 'PRANAV M', 'KA Central CBatch', 6, 'C', 7, 7, 7, 8, 8, 7, 44, 28, 8, 19, 10, 19, 10, 94, 35, 15, 26, 18, 27, 17, 138)
+
+  -- Sheet: 15-7-A (rows=45, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS682379', 'NAGA KIRAN T', 'KA Central CBatch', 7, 'A', 8, 8, 8, 10, 9, 8, 51, 35, 33, 30, 35, 33, 34, 200, 43, 41, 38, 45, 42, 42, 251)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS479738', 'PEMMASANI LAKSHMINARAYANA NAIDU', 'KA Central CBatch', 7, 'A', 9, 8, 8, 9, 8, 8, 50, 30, 31, 35, 21, 33, 34, 184, 39, 39, 43, 30, 41, 42, 234)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS516634', 'PRAJOKTA MAHANTA', 'KA Central CBatch', 7, 'A', 9, 9, 7, 9, 8, 7, 49, 32, 32, 23, 23, 32, 28, 170, 41, 41, 30, 32, 40, 35, 219)
+
+  -- Sheet: 15-7-B (rows=40, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS1536405', 'SIVANI V', 'KA Central CBatch', 7, 'B', 9, 10, 10, 8, 10, 10, 57, 36, 39, 38, 32, 35, 36, 216, 45, 49, 48, 40, 45, 46, 273)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS854797', 'VINAY M', 'KA Central CBatch', 7, 'B', 9, 9, 9, 9, 10, 10, 56, 38, 37, 38, 35, 39, 40, 227, 47, 46, 47, 44, 49, 50, 283)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS857610', 'BHAVISHYA BALUSU', 'KA Central CBatch', 7, 'B', 9, 10, 10, 8, 10, 9, 56, 35, 28, 34, 31, 36, 29, 193, 44, 38, 44, 39, 46, 38, 249)
+
+  -- Sheet: 15-7-C (rows=48, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS800513', 'DEEKSHITHA K', 'KA Central CBatch', 7, 'C', 10, 10, 10, 10, 10, 10, 60, 37, 32, 32, 27, 23, 31, 182, 47, 42, 42, 37, 33, 41, 242)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS497272', 'SAI TEJAS T.P', 'KA Central CBatch', 7, 'C', 10, 10, 10, 10, 10, 10, 60, 35, 34, 34, 32, 32, 29, 196, 45, 44, 44, 42, 42, 39, 256)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS533811', 'NAVYASRI S', 'KA Central CBatch', 7, 'C', 10, 10, 10, 10, 10, 10, 60, 36, 38, 33, 34, 36, 27, 204, 46, 48, 43, 44, 46, 37, 264)
+
+  -- Sheet: 15-8-A (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS737685', 'HARSHIL PRASAN', 'KA Central CBatch', 8, 'A', 7, 7, 8, 7, 8, 10, 47, 29, 20, 37, 22, 37, 36, 181, 36, 27, 45, 29, 45, 46, 228)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS481389', 'YASHAS GANESH T', 'KA Central CBatch', 8, 'A', 7, 9, 8, 7, 8, 10, 49, 34, 27, 22, 24, 31, 31, 169, 41, 36, 30, 31, 39, 41, 218)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS496521', 'HAMSINI GUDELLI', 'KA Central CBatch', 8, 'A', 9, 9, 9, 9, 9, 8, 53, 29, 30, 25, 36, 36, 25, 181, 38, 39, 34, 45, 45, 33, 234)
+
+  -- Sheet: 15-8-B (rows=43, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS768201', 'SRI AARYAN REDDY DAGUMATI', 'KA Central CBatch', 8, 'B', 9, 10, 8, 10, 9, 10, 56, 33, 32, 25, 33, 30, 33, 186, 42, 42, 33, 43, 39, 43, 242)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS431984', 'JAHNAVI CHOWDARY V', 'KA Central CBatch', 8, 'B', 10, 10, 7, 10, 10, 10, 57, 33, 31, 26, 40, 37, 32, 199, 43, 41, 33, 50, 47, 42, 256)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS471618', 'SRI NIDHI SOMA ROWTHU', 'KA Central CBatch', 8, 'B', 9, 10, 8, 10, 10, 8, 55, 37, 38, 35, 28, 38, 29, 205, 46, 48, 43, 38, 48, 37, 260)
+
+  -- Sheet: 15-8-C (rows=43, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS685370', 'ANWITHA GUJJALA', 'KA Central CBatch', 8, 'C', 10, 9, 10, 9, 10, 9, 57, 35, 34, 36, 23, 36, 28, 192, 45, 43, 46, 32, 46, 37, 249)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS536157', 'TAKSHEEL KUMAR G', 'KA Central CBatch', 8, 'C', 8, 8, 8, 9, 9, 10, 52, 26, 23, 28, 24, 35, 34, 170, 34, 31, 36, 33, 44, 44, 222)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS574170', 'SAKETH PRAVEEN', 'KA Central CBatch', 8, 'C', 9, 8, 10, 9, 9, 9, 54, 34, 36, 37, 27, 34, 29, 197, 43, 44, 47, 36, 43, 38, 251)
+
+  -- Sheet: 15-9-A (rows=36, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS541371', 'TEJDEEP B', 'KA Central CBatch', 9, 'A', 7, 10, 10, 10, 10, 47, 37, 38, 39, 34, 30, 178, 44, 48, 49, 44, 40, 225)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS382103', 'L.N.NANDAN REDDY SAKIREVUPALLI', 'KA Central CBatch', 9, 'A', 10, 10, 8, 10, 10, 48, 35, 33, 39, 38, 36, 181, 45, 43, 47, 48, 46, 229)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS395092', 'SHRESHTA SHREE V V', 'KA Central CBatch', 9, 'A', 10, 7, 8, 8, 8, 41, 33, 19, 26, 14, 19, 111, 43, 26, 34, 22, 27, 152)
+
+  -- Sheet: 15-9-B (rows=33, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS802770', 'AARNAVI DHYANI', 'KA Central CBatch', 9, 'B', 8, 8, 10, 8, 8, 42, 23, 25, 38, 34, 17, 137, 31, 33, 48, 42, 25, 179)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS397846', 'LAKTHIKA S.L', 'KA Central CBatch', 9, 'B', 8, 8, 10, 9, 8, 43, 29, 26, 38, 34, 20, 147, 37, 34, 48, 43, 28, 190)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS633976', 'SAMHITHA.G YADAV', 'KA Central CBatch', 9, 'B', 10, 9, 10, 8, 7, 44, 39, 30, 40, 35, 27, 171, 49, 39, 50, 43, 34, 215)
+
+  -- Sheet: 15-9-C (rows=38, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN 6-9 PRE MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS807217', 'DHANYA K', 'KA Central CBatch', 9, 'C', 10, 10, 10, 10, 10, 50, 33, 39, 32, 39, 37, 180, 43, 49, 42, 49, 47, 230)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS579837', 'ANVITH KUMAR SHETTY', 'KA Central CBatch', 9, 'C', 9, 9, 10, 10, 10, 48, 39, 39, 37, 39, 37, 191, 48, 48, 47, 49, 47, 239)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS581759', 'HEMASHRI D', 'KA Central CBatch', 9, 'C', 10, 10, 10, 10, 10, 50, 38, 39, 40, 38, 37, 192, 48, 49, 50, 48, 47, 242)
+
+============================================================
+MID_TERM: CBSE KA TN MID TERM Marks Entry Format (5).xlsx
+Sheets: ['4-6-A', '4-6-B', '4-6-C', '4-7-A', '4-7-B', '4-7-C', '4-8-A', '4-8-B', '4-8-C', '4-9-A', '4-9-B', '4-9-C', '15-6-A', '15-6-B', '15-6-C', '15-7-A', '15-7-B', '15-7-C', '15-8-A', '15-8-B', '15-8-C', '15-9-A', '15-9-B', '15-9-C', '20-6-A', '20-6-B', '20-7-A', '20-8-A', '32-8-A', '32-9-A']
+
+  -- Sheet: 4-6-A (rows=37, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS930995', 'SHIVAM KUMAR', 'KA Central Techno', 6, 'A', 18, 15, 17, 17, 19, 17, 103, 39, 31, 63, 29, 28, 26, 216, 57, 46, 80, 46, 47, 43, 319)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS629222', 'ARYAN.S REDDY', 'KA Central Techno', 6, 'A', 14, 15, 16, 16, 17, 15, 93, 24, 9, 35, 40, 35, 38, 181, 38, 24, 51, 56, 52, 53, 274)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS636061', 'YEDLA JITIN', 'KA Central Techno', 6, 'A', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB')
+
+  -- Sheet: 4-6-B (rows=33, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS690489', 'VARSHANA Y', 'KA Central Techno', 6, 'B', 14, 16, 15, 17, 15, 17, 94, 'AB', 17, 28, 20, 26, 29, 120, 14, 33, 43, 37, 41, 46, 214)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1214087', 'GRANDHI JASWANTH', 'KA Central Techno', 6, 'B', 14, 17, 15, 16, 15, 16, 93, 46, 43, 39, 51, 38, 43, 260, 60, 60, 54, 67, 53, 59, 353)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1050418', 'VISHAL S A', 'KA Central Techno', 6, 'B', 15, 17, 17, 16, 19, 17, 101, 46, 42, 56, 60, 55, 51, 310, 61, 59, 73, 76, 74, 68, 411)
+
+  -- Sheet: 4-6-C (rows=35, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS730241', 'MANISH N.R', 'KA Central Techno', 6, 'C', 15, 15, 18, 18, 19, 15, 100, 42, 29, 49, 49, 54, 47, 270, 57, 44, 67, 67, 73, 62, 370)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1362620', 'TEJASHWINI GOWDA H', 'KA Central Techno', 6, 'C', 14, 18, 19, 20, 20, 19, 110, 63, 71, 79, 74, 76, 64, 427, 77, 89, 98, 94, 96, 83, 537)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1334055', 'GOWRAV R', 'KA Central Techno', 6, 'C', 15, 17, 15, 18, 18, 19, 102, 46, 52, 39, 28, 36, 64, 265, 61, 69, 54, 46, 54, 83, 367)
+
+  -- Sheet: 4-7-A (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS632478', 'SANDHYA S', 'KA Central Techno', 7, 'A', 20, 17, 20, 20, 20, 20, 117, 71, 76, 79, 74, 74, 71, 445, 91, 93, 99, 94, 94, 91, 562)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS570603', 'HAASINI S', 'KA Central Techno', 7, 'A', 15, 16, 16, 18, 17, 19, 101, 56, 64, 35, 47, 61, 62, 325, 71, 80, 51, 65, 78, 81, 426)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS571744', 'NANDAN KALLUR', 'KA Central Techno', 7, 'A', 18, 18, 19, 16, 16, 17, 104, 60, 64, 68, 48, 52, 46, 338, 78, 82, 87, 64, 68, 63, 442)
+
+  -- Sheet: 4-7-B (rows=35, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS848048', 'PRANAVI ACHARYA', 'KA Central Techno', 7, 'B', 18, 18, 18, 18, 18, 18, 108, 68, 42, 59, 68, 68, 60, 365, 86, 60, 77, 86, 86, 78, 473)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1555963', 'S INIYA', 'KA Central Techno', 7, 'B', 18, 18, 18, 18, 18, 18, 108, 59, 68, 70, 73, 69, 71, 410, 77, 86, 88, 91, 87, 89, 518)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1776059', 'TARUN K M', 'KA Central Techno', 7, 'B', 18, 18, 18, 18, 18, 18, 108, 53, 73, 56, 55, 58, 58, 353, 71, 91, 74, 73, 76, 76, 461)
+
+  -- Sheet: 4-7-C (rows=36, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS637045', 'SATHWIK REDDY A', 'KA Central Techno', 7, 'C', 15, 17, 20, 17, 17, 17, 103, 51, 38, 48, 49, 33, 41, 260, 66, 55, 68, 66, 50, 58, 363)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS616218', 'JAYANTH GOWDA G.R.', 'KA Central Techno', 7, 'C', 16, 10, 20, 15, 17, 16, 94, 45, 28, 38, 31, 60, 53, 255, 61, 38, 58, 46, 77, 69, 349)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS617288', 'VAIBHAV RAO M', 'KA Central Techno', 7, 'C', 17, 20, 18, 20, 20, 20, 115, 70, 75, 77, 66, 72, 71, 431, 87, 95, 95, 86, 92, 91, 546)
+
+  -- Sheet: 4-8-A (rows=44, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS718106', 'JAYASREE RAMAYANAM', 'KA Central Techno', 8, 'A', 17, 15, 17, 15, 16, 16, 96, 32, 23, 28, 13, 48, 30, 174, 49, 38, 45, 28, 64, 46, 270)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS529488', 'MADIHA FATHIMA M', 'KA Central Techno', 8, 'A', 16, 15, 17, 15, 15, 16, 94, 51, 24, 36, 17, 39, 42, 209, 67, 39, 53, 32, 54, 58, 303)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS530559', 'DHASHINI S', 'KA Central Techno', 8, 'A', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB')
+
+  -- Sheet: 4-8-B (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS1587001', 'V DUSHYANTH', 'KA Central Techno', 8, 'B', 18, 18, 20, 16, 19, 18, 109, 69, 28, 70, 45, 76, 35, 323, 87, 46, 90, 61, 95, 53, 432)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS738580', 'PRATUSHA M', 'KA Central Techno', 8, 'B', 13, 19, 15, 20, 19, 20, 106, 60, 30, 37, 37, 49, 44, 257, 73, 49, 52, 57, 68, 64, 363)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS739146', 'NIKITHA R', 'KA Central Techno', 8, 'B', 12, 17, 15, 18, 17, 20, 99, 34, 26, 33, 17, 11, 31, 152, 46, 43, 48, 35, 28, 51, 251)
+
+  -- Sheet: 4-8-C (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS736744', 'THANU J.S', 'KA Central Techno', 8, 'C', 20, 19, 19, 20, 20, 19, 117, 74, 68, 73, 78, 77, 65, 435, 94, 87, 92, 98, 97, 84, 552)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS554774', 'HARSHINI A', 'KA Central Techno', 8, 'C', 17, 18, 18, 18, 19, 18, 108, 58, 48, 51, 55, 70, 59, 341, 75, 66, 69, 73, 89, 77, 449)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS605911', 'DHRUVIKA S N', 'KA Central Techno', 8, 'C', 19, 18, 18, 18, 19, 18, 110, 62, 35, 61, 63, 70, 56, 347, 81, 53, 79, 81, 89, 74, 457)
+
+  -- Sheet: 4-9-A (rows=47, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS410228', 'SANDEEP R', 'KA Central Techno', 9, 'A', 14, 15, 16, 14, 13, 72, 57, 37, 48, 47, 68, 257, 71, 52, 64, 61, 81, 329)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS304298', 'TANISH B', 'KA Central Techno', 9, 'A', 12, 14, 12, 12, 11, 61, 27, 10, 12, 18, 22, 89, 39, 24, 24, 30, 33, 150)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS304631', 'PRAVALIKA DEVI P', 'KA Central Techno', 9, 'A', 18, 19, 19, 18, 17, 91, 64, 50, 68, 51, 58, 291, 82, 69, 87, 69, 75, 382)
+
+  -- Sheet: 4-9-B (rows=46, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS981374', 'V MAHASHVIN REDDY', 'KA Central Techno', 9, 'B', 15, 17, 16, 16, 15, 79, 55, 31, 39, 56, 56, 237, 70, 48, 55, 72, 71, 316)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS695247', 'KEERTHANA M', 'KA Central Techno', 9, 'B', 19, 18, 18, 19, 18, 92, 68, 42, 68, 59, 51, 288, 87, 60, 86, 78, 69, 380)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS696340', 'P BHAVYA', 'KA Central Techno', 9, 'B', 18, 18, 18, 19, 17, 90, 53, 53, 60, 64, 58, 288, 71, 71, 78, 83, 75, 378)
+
+  -- Sheet: 4-9-C (rows=40, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS395288', 'KUSHALA. S', 'KA Central Techno', 9, 'C', 16, 17, 15, 15, 18, 81, 40, 28, 37, 40, 35, 180, 56, 45, 52, 55, 53, 261)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS574757', 'DEEPESH U.S', 'KA Central Techno', 9, 'C', 16, 16, 15, 15, 17, 79, 39, 40, 36, 38, 30, 183, 55, 56, 51, 53, 47, 262)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS575661', 'DARSHIKA G', 'KA Central Techno', 9, 'C', 18, 19, 16, 15, 17, 85, 44, 42, 40, 34, 31, 191, 62, 61, 56, 49, 48, 276)
+
+  -- Sheet: 15-6-A (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS829543', 'AARADHYA MAHARATHI', 'KA Central CBatch', 6, 'A', 18, 18, 20, 20, 18, 19, 113, 72, 70, 76, 57, 60, 64, 399, 90, 88, 96, 77, 78, 83, 512)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS684894', 'NIRANJANA C S', 'KA Central CBatch', 6, 'A', 19, 18, 16, 18, 20, 20, 111, 73, 49, 56, 49, 69, 68, 364, 92, 67, 72, 67, 89, 88, 475)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS685932', 'KUSHITHA Y', 'KA Central CBatch', 6, 'A', 17, 19, 18, 19, 19, 19, 111, 69, 48, 62, 63, 65, 62, 369, 86, 67, 80, 82, 84, 81, 480)
+
+  -- Sheet: 15-6-B (rows=40, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS680141', 'SHOSSANA NASYA MANNE', 'KA Central CBatch', 6, 'B', 16, 17, 17, 17, 16, 17, 100, 54, 42, 65, 52, 59, 42, 314, 70, 59, 82, 69, 75, 59, 414)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1717112', 'YUVIKA GAUR', 'KA Central CBatch', 6, 'B', 16, 17, 17, 18, 17, 16, 101, 51, 57, 40, 40, 51, 43, 282, 67, 74, 57, 58, 68, 59, 383)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1719739', 'HARSH TIWARI', 'KA Central CBatch', 6, 'B', 16, 19, 19, 16, 18, 19, 107, 65, 80, 79, 48, 71, 64, 407, 81, 99, 98, 64, 89, 83, 514)
+
+  -- Sheet: 15-6-C (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS685988', 'MANASVI G', 'KA Central CBatch', 6, 'C', 19, 18, 18, 18, 18, 16, 107, 68, 56, 72, 66, 69, 64, 395, 87, 74, 90, 84, 87, 80, 502)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1734541', 'P BHAVADEEP REDDY', 'KA Central CBatch', 6, 'C', 19, 17, 17, 16, 18, 19, 106, 55, 35, 58, 58, 65, 62, 333, 74, 52, 75, 74, 83, 81, 439)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1754306', 'PRANAV M', 'KA Central CBatch', 6, 'C', 18, 16, 16, 15, 17, 18, 100, 43, 16, 47, 30, 38, 33, 207, 61, 32, 63, 45, 55, 51, 307)
+
+  -- Sheet: 15-7-A (rows=45, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS682379', 'NAGA KIRAN T', 'KA Central CBatch', 7, 'A', 18, 15, 18, 18, 17, 17, 103, 74, 49, 76, 70, 65, 67, 401, 92, 64, 94, 88, 82, 84, 504)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS479738', 'PEMMASANI LAKSHMINARAYANA NAIDU', 'KA Central CBatch', 7, 'A', 16, 17, 17, 16, 16, 15, 97, 59, 61, 60, 68, 62, 61, 371, 75, 78, 77, 84, 78, 76, 468)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS516634', 'PRAJOKTA MAHANTA', 'KA Central CBatch', 7, 'A', 16, 17, 16, 16, 16, 16, 97, 58, 48, 48, 47, 61, 59, 321, 74, 65, 64, 63, 77, 75, 418)
+
+  -- Sheet: 15-7-B (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS939239', 'JAYAVARDHAN SESHADRI', 'KA Central CBatch', 7, 'B', 17, 16, 18, 17, 18, 20, 106, 66, 55, 67, 71, 69, 70, 398, 83, 71, 85, 88, 87, 90, 504)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS854797', 'VINAY M', 'KA Central CBatch', 7, 'B', 19, 18, 20, 18, 20, 20, 115, 76, 66, 71, 76, 78, 78, 445, 95, 84, 91, 94, 98, 98, 560)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS857610', 'BHAVISHYA BALUSU', 'KA Central CBatch', 7, 'B', 'AB', 17, 'AB', 'AB', 'AB', 17, 34, 'AB', 46, 'AB', 'AB', 'AB', 52, 98, 'AB', 63, 'AB', 'AB', 'AB', 69, 132)
+
+  -- Sheet: 15-7-C (rows=48, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS800513', 'DEEKSHITHA K', 'KA Central CBatch', 7, 'C', 15, 14, 15, 19, 18, 19, 100, 62, 47, 51, 68, 44, 56, 328, 77, 61, 66, 87, 62, 75, 428)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS497272', 'SAI TEJAS T.P', 'KA Central CBatch', 7, 'C', 16, 19, 19, 17, 17, 19, 107, 64, 68, 69, 56, 55, 63, 375, 80, 87, 88, 73, 72, 82, 482)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS533811', 'NAVYASRI S', 'KA Central CBatch', 7, 'C', 17, 20, 19, 20, 19, 19, 114, 67, 73, 63, 70, 55, 67, 395, 84, 93, 82, 90, 74, 86, 509)
+
+  -- Sheet: 15-8-A (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS737685', 'HARSHIL PRASAN', 'KA Central CBatch', 8, 'A', 16, 17, 19, 15, 17, 19, 103, 57, 50, 58, 59, 71, 65, 360, 73, 67, 77, 74, 88, 84, 463)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS481389', 'YASHAS GANESH T', 'KA Central CBatch', 8, 'A', 16, 16, 17, 16, 17, 16, 98, 65, 42, 44, 55, 66, 53, 325, 81, 58, 61, 71, 83, 69, 423)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS496521', 'HAMSINI GUDELLI', 'KA Central CBatch', 8, 'A', 17, 17, 20, 17, 18, 17, 106, 69, 54, 78, 70, 73, 58, 402, 86, 71, 98, 87, 91, 75, 508)
+
+  -- Sheet: 15-8-B (rows=43, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS768201', 'SRI AARYAN REDDY DAGUMATI', 'KA Central CBatch', 8, 'B', 18, 15, 16, 20, 20, 19, 108, 56, 36, 44, 72, 72, 61, 341, 74, 51, 60, 92, 92, 80, 449)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS431984', 'JAHNAVI CHOWDARY V', 'KA Central CBatch', 8, 'B', 19, 17, 18, 20, 20, 19, 113, 69, 37, 49, 80, 74, 66, 375, 88, 54, 67, 100, 94, 85, 488)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS471618', 'SRI NIDHI SOMA ROWTHU', 'KA Central CBatch', 8, 'B', 20, 19, 20, 18, 20, 20, 117, 79, 60, 78, 58, 73, 61, 409, 99, 79, 98, 76, 93, 81, 526)
+
+  -- Sheet: 15-8-C (rows=43, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS685370', 'ANWITHA GUJJALA', 'KA Central CBatch', 8, 'C', 20, 19, 20, 18, 20, 18, 115, 72, 67, 76, 67, 76, 51, 409, 92, 86, 96, 85, 96, 69, 524)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS536157', 'TAKSHEEL KUMAR G', 'KA Central CBatch', 8, 'C', 18, 17, 17, 17, 19, 18, 106, 53, 46, 49, 67, 75, 58, 348, 71, 63, 66, 84, 94, 76, 454)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS574170', 'SAKETH PRAVEEN', 'KA Central CBatch', 8, 'C', 18, 19, 17, 18, 20, 18, 110, 66, 66, 48, 73, 70, 44, 367, 84, 85, 65, 91, 90, 62, 477)
+
+  -- Sheet: 15-9-A (rows=36, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS541371', 'TEJDEEP B', 'KA Central CBatch', 9, 'A', 19, 19, 17, 18, 19, 92, 69, 68, 76, 60, 69, 342, 88, 87, 93, 78, 88, 434)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS382103', 'L.N.NANDAN REDDY SAKIREVUPALLI', 'KA Central CBatch', 9, 'A', 19, 18, 19, 20, 19, 95, 63, 55, 77, 76, 74, 345, 82, 73, 96, 96, 93, 440)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS395092', 'SHRESHTA SHREE V V', 'KA Central CBatch', 9, 'A', 18, 17, 17, 17, 18, 87, 56, 45, 30, 35, 42, 208, 74, 62, 47, 52, 60, 295)
+
+  -- Sheet: 15-9-B (rows=33, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS802770', 'AARNAVI DHYANI', 'KA Central CBatch', 9, 'B', 16, 17, 18, 18, 16, 85, 48, 58, 52, 54, 53, 265, 64, 75, 70, 72, 69, 350)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS397846', 'LAKTHIKA S.L', 'KA Central CBatch', 9, 'B', 18, 17, 20, 18, 18, 91, 49, 24, 75, 63, 49, 260, 67, 41, 95, 81, 67, 351)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS633976', 'SAMHITHA.G YADAV', 'KA Central CBatch', 9, 'B', 20, 18, 20, 20, 17, 95, 71, 61, 79, 73, 68, 352, 91, 79, 99, 93, 85, 447)
+
+  -- Sheet: 15-9-C (rows=38, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS807217', 'DHANYA K', 'KA Central CBatch', 9, 'C', 17, 20, 20, 19, 19, 95, 64, 75, 71, 74, 71, 355, 81, 95, 91, 93, 90, 450)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS579837', 'ANVITH KUMAR SHETTY', 'KA Central CBatch', 9, 'C', 19, 20, 20, 20, 20, 99, 79, 78, 80, 78, 77, 392, 98, 98, 100, 98, 97, 491)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS581759', 'HEMASHRI D', 'KA Central CBatch', 9, 'C', 19, 20, 20, 20, 20, 99, 70, 77, 76, 76, 77, 376, 89, 97, 96, 96, 97, 475)
+
+  -- Sheet: 20-6-A (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS869805', 'GUJJALA NIHAL SAISIREESH REDDY', 'KA Central IPL', 6, 'A', 19, 17, 16, 19, 20, 18, 109, 68, 40, 32, 63, 74, 59, 336, 87, 57, 48, 82, 94, 77, 445)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS590489', 'ARUNAVA BHATTACHARYA', 'KA Central IPL', 6, 'A', 20, 18, 17, 20, 20, 16, 111, 71, 58, 45, 73, 70, 37, 354, 91, 76, 62, 93, 90, 53, 465)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS610805', 'HAVISH RAJ V.V', 'KA Central IPL', 6, 'A', 20, 20, 20, 19, 20, 18, 117, 70, 77, 80, 62, 70, 59, 418, 90, 97, 100, 81, 90, 77, 535)
+
+  -- Sheet: 20-6-B (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS702016', 'SIMRA SHAIK', 'KA Central IPL', 6, 'B', 19, 19, 20, 19, 20, 18, 115, 66, 62, 76, 61, 71, 66, 402, 85, 81, 96, 80, 91, 84, 517)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS574603', 'SAMANVITHA. M.V', 'KA Central IPL', 6, 'B', 20, 20, 20, 20, 20, 20, 120, 75, 79, 76, 73, 79, 73, 455, 95, 99, 96, 93, 99, 93, 575)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS581358', 'AANIYAH SIDIQ', 'KA Central IPL', 6, 'B', 19, 18, 14, 18, 19, 18, 106, 64, 54, 29, 56, 67, 66, 336, 83, 72, 43, 74, 86, 84, 442)
+
+  -- Sheet: 20-7-A (rows=31, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS481252', 'AKSHAYA RAO CHINTHAKANI', 'KA Central IPL', 7, 'A', 19, 'AB', 20, 20, 20, 20, 99, 73, 67, 61, 69, 75, 73, 418, 92, 67, 81, 89, 95, 93, 517)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS997740', 'YAGNA SREE YARAGONDA', 'KA Central IPL', 7, 'A', 19, 18, 20, 20, 20, 20, 117, 74, 59, 66, 76, 78, 72, 425, 93, 77, 86, 96, 98, 92, 542)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS978111', 'ARAVA VENKATA MOKSHITHA REDDY', 'KA Central IPL', 7, 'A', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB')
+
+  -- Sheet: 20-8-A (rows=28, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS482256', 'DESHNA K', 'KA Central IPL', 8, 'A', 20, 20, 20, 20, 20, 20, 120, 56, 56, 'AB', 50, 74, 56, 292, 76, 76, 20, 70, 94, 76, 412)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS520012', 'SAMRUDH M', 'KA Central IPL', 8, 'A', 20, 20, 20, 20, 20, 20, 120, 72, 63, 65, 80, 71, 58, 409, 92, 83, 85, 100, 91, 78, 529)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS919736', 'KARTHIK REDDY M', 'KA Central IPL', 8, 'A', 20, 20, 20, 20, 20, 20, 120, 68, 64, 68, 78, 79, 75, 432, 88, 84, 88, 98, 99, 95, 552)
+
+  -- Sheet: 32-8-A (rows=21, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS466152', 'ILACKYA R', 'KA Central MPL', 8, 'A', 18, 18, 18, 18, 18, 18, 108, 67, 40, 47, 43, 71, 54, 322, 85, 58, 65, 61, 89, 72, 430)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1747850', 'LIKSHITH U', 'KA Central MPL', 8, 'A', 19, 18, 17, 17, 18, 18, 107, 60, 45, 66, 58, 72, 58, 359, 79, 63, 83, 75, 90, 76, 466)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS805102', 'MOUNIKA Y', 'KA Central MPL', 8, 'A', 19, 18, 18, 20, 20, 18, 113, 73, 57, 69, 80, 80, 64, 423, 92, 75, 87, 100, 100, 82, 536)
+
+  -- Sheet: 32-9-A (rows=32, cols=26) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN MID TERM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS301851', 'MIHIKA BHAGAT', 'KA Central MPL', 9, 'A', 19, 19, 19, 18, 19, 94, 78, 79, 72, 78, 78, 385, 97, 98, 91, 96, 97, 479)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1071239', 'RAKESH S', 'KA Central MPL', 9, 'A', 18, 17, 18, 18, 18, 89, 61, 40, 70, 70, 71, 312, 79, 57, 88, 88, 89, 401)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS841169', 'SEVITHA R', 'KA Central MPL', 9, 'A', 16, 19, 16, 16, 17, 84, 65, 55, 52, 68, 66, 306, 81, 74, 68, 84, 83, 390)
+
+============================================================
+POST_MID: CBSE KA TN POST MID Marks Entry Format (3).xlsx
+Sheets: ['4-6-A', '4-6-B', '4-6-C', '4-7-A', '4-7-B', '4-7-C', '4-8-A', '4-8-B', '4-8-C', '15-6-A', '15-6-B', '15-6-C', '15-7-A', '15-7-B', '15-7-C', '15-8-A', '15-8-B', '15-8-C']
+
+  -- Sheet: 4-6-A (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS930995', 'SHIVAM KUMAR', 'KA Central Techno', 6, 'A', 8, 8, 5, 9, 10, 8, 48, 20, 21, 11, 10, 32, 15, 109, 28, 29, 16, 19, 42, 23, 157)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS629222', 'ARYAN.S REDDY', 'KA Central Techno', 6, 'A', 6, 7, 8, 7, 7, 7, 42, 12, 17, 30, 15, 17, 15, 106, 18, 24, 38, 22, 24, 22, 148)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS636061', 'YEDLA JITIN', 'KA Central Techno', 6, 'A', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB')
+
+  -- Sheet: 4-6-B (rows=34, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS690489', 'VARSHANA Y', 'KA Central Techno', 6, 'B', 8, 7, 7, 5, 6, 7, 40, 28, 14, 15, 3, 18, 12, 90, 36, 21, 22, 8, 24, 19, 130)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1214087', 'GRANDHI JASWANTH', 'KA Central Techno', 6, 'B', 8, 7, 7, 6, 8, 7, 43, 19, 17, 26, 17, 27, 11, 117, 27, 24, 33, 23, 35, 18, 160)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1050418', 'VISHAL S A', 'KA Central Techno', 6, 'B', 8, 7, 7, 6, 8, 9, 45, 23, 15, 35, 29, 29, 25, 156, 31, 22, 42, 35, 37, 34, 201)
+
+  -- Sheet: 4-6-C (rows=34, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS715388', 'SHRUTHIKA R', 'KA Central Techno', 6, 'C', 9, 9, 6, 7, 7, 7, 45, 30, 29, 34, 19, 29, 22, 163, 39, 38, 40, 26, 36, 29, 208)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1362620', 'TEJASHWINI GOWDA H', 'KA Central Techno', 6, 'C', 10, 9, 10, 10, 10, 10, 59, 36, 30, 40, 37, 40, 37, 220, 46, 39, 50, 47, 50, 47, 279)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1334055', 'GOWRAV R', 'KA Central Techno', 6, 'C', 8, 9, 10, 8, 9, 8, 52, 27, 24, 28, 16, 34, 17, 146, 35, 33, 38, 24, 43, 25, 198)
+
+  -- Sheet: 4-7-A (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS632478', 'SANDHYA S', 'KA Central Techno', 7, 'A', 10, 10, 10, 10, 9, 10, 59, 37, 39, 39, 37, 36, 36, 224, 47, 49, 49, 47, 45, 46, 283)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS570603', 'HAASINI S', 'KA Central Techno', 7, 'A', 10, 10, 8, 10, 8, 9, 55, 36, 34, 16, 34, 30, 29, 179, 46, 44, 24, 44, 38, 38, 234)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS571744', 'NANDAN KALLUR', 'KA Central Techno', 7, 'A', 7, 10, 8, 8, 9, 8, 50, 30, 37, 33, 19, 29, 30, 178, 37, 47, 41, 27, 38, 38, 228)
+
+  -- Sheet: 4-7-B (rows=36, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS1621669', 'K SAI SAATVIK NAIDU', 'KA Central Techno', 7, 'B', 8, 9, 8, 'AB', 8, 8, 41, 14, 32, 22, 'AB', 19, 14, 101, 22, 41, 30, 'AB', 27, 22, 142)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS848048', 'PRANAVI ACHARYA', 'KA Central Techno', 7, 'B', 9, 8, 8, 8, 10, 8, 51, 36, 28, 24, 27, 38, 28, 181, 45, 36, 32, 35, 48, 36, 232)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS849654', 'LAKSHAYA D', 'KA Central Techno', 7, 'B', 8, 8, 10, 7, 9, 8, 50, 29, 28, 37, 16, 32, 29, 171, 37, 36, 47, 23, 41, 37, 221)
+
+  -- Sheet: 4-7-C (rows=35, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS616218', 'JAYANTH GOWDA G.R.', 'KA Central Techno', 7, 'C', 7, 6, 8, 7, 7, 6, 41, 18, 17, 25, 14, 25, 18, 117, 25, 23, 33, 21, 32, 24, 158)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS859580', 'THANU SHREE. A', 'KA Central Techno', 7, 'C', 6, 10, 7, 8, 7, 6, 44, 20, 32, 23, 15, 15, 16, 121, 26, 42, 30, 23, 22, 22, 165)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS857877', 'KHUSHI.R .MAHENDRAKAR', 'KA Central Techno', 7, 'C', 10, 10, 10, 8, 10, 10, 58, 37, 39, 40, 39, 38, 38, 231, 47, 49, 50, 47, 48, 48, 289)
+
+  -- Sheet: 4-8-A (rows=42, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS641670', 'NAGA SANVITHA S', 'KA Central Techno', 8, 'A', 9, 8, 9, 8, 9, 8, 51, 26, 23, 33, 19, 30, 22, 153, 35, 31, 42, 27, 39, 30, 204)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS529488', 'MADIHA FATHIMA M', 'KA Central Techno', 8, 'A', 8, 6, 8, 8, 9, 8, 47, 25, 13, 22, 22, 30, 21, 133, 33, 19, 30, 30, 39, 29, 180)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS530559', 'DHASHINI S', 'KA Central Techno', 8, 'A', 5, 5, 8, 'AB', 'AB', 5, 23, 10, 6, 18, 'AB', 'AB', 18, 52, 15, 11, 26, 'AB', 'AB', 23, 75)
+
+  -- Sheet: 4-8-B (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS841250', 'VARSHITHA S', 'KA Central Techno', 8, 'B', 7, 8, 8, 7, 8, 8, 46, 33, 26, 23, 12, 25, 22, 141, 40, 34, 31, 19, 33, 30, 187)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS737816', 'SANTHOSH KUMAR T', 'KA Central Techno', 8, 'B', 7, 8, 7, 7, 7, 7, 43, 9, 11, 12, 27, 9, 24, 92, 16, 19, 19, 34, 16, 31, 135)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS738580', 'PRATUSHA M', 'KA Central Techno', 8, 'B', 10, 8, 10, 10, 10, 10, 58, 27, 17, 39, 37, 18, 30, 168, 37, 25, 49, 47, 28, 40, 226)
+
+  -- Sheet: 4-8-C (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS736744', 'THANU J.S', 'KA Central Techno', 8, 'C', 10, 10, 10, 10, 10, 10, 60, 34, 38, 40, 36, 40, 35, 223, 44, 48, 50, 46, 50, 45, 283)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS554774', 'HARSHINI A', 'KA Central Techno', 8, 'C', 7, 9, 10, 9, 10, 9, 54, 23, 37, 39, 33, 35, 31, 198, 30, 46, 49, 42, 45, 40, 252)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS605911', 'DHRUVIKA S N', 'KA Central Techno', 8, 'C', 8, 8, 10, 8, 9, 8, 51, 16, 30, 40, 28, 25, 24, 163, 24, 38, 50, 36, 34, 32, 214)
+
+  -- Sheet: 15-6-A (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS829543', 'AARADHYA MAHARATHI', 'KA Central CBatch', 6, 'A', 10, 9, 9, 9, 9, 9, 55, 34, 32, 28, 22, 34, 32, 182, 44, 41, 37, 31, 43, 41, 237)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS684894', 'NIRANJANA C S', 'KA Central CBatch', 6, 'A', 10, 'AB', 9, 8, 10, 8, 45, 38, 'AB', 31, 20, 40, 28, 157, 48, 'AB', 40, 28, 50, 36, 202)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS685932', 'KUSHITHA Y', 'KA Central CBatch', 6, 'A', 10, 8, 8, 9, 8, 8, 51, 37, 21, 27, 20, 31, 24, 160, 47, 29, 35, 29, 39, 32, 211)
+
+  -- Sheet: 15-6-B (rows=40, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS680141', 'SHOSSANA NASYA MANNE', 'KA Central CBatch', 6, 'B', 8, 8, 9, 8, 8, 9, 50, 32, 23, 16, 21, 34, 23, 149, 40, 31, 25, 29, 42, 32, 199)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1717112', 'YUVIKA GAUR', 'KA Central CBatch', 6, 'B', 7, 8, 9, 8, 8, 9, 49, 30, 31, 27, 16, 36, 30, 170, 37, 39, 36, 24, 44, 39, 219)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1719739', 'HARSH TIWARI', 'KA Central CBatch', 6, 'B', 9, 9, 10, 10, 9, 9, 56, 32, 32, 37, 36, 34, 31, 202, 41, 41, 47, 46, 43, 40, 258)
+
+  -- Sheet: 15-6-C (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS685988', 'MANASVI G', 'KA Central CBatch', 6, 'C', 10, 8, 10, 10, 10, 9, 57, 35, 20, 38, 32, 38, 27, 190, 45, 28, 48, 42, 48, 36, 247)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1734541', 'P BHAVADEEP REDDY', 'KA Central CBatch', 6, 'C', 10, 8, 9, 9, 9, 8, 53, 31, 19, 39, 19, 38, 22, 168, 41, 27, 48, 28, 47, 30, 221)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1754306', 'PRANAV M', 'KA Central CBatch', 6, 'C', 8, 8, 9, 9, 8, 8, 50, 15, 19, 38, 9, 20, 13, 114, 23, 27, 47, 18, 28, 21, 164)
+
+  -- Sheet: 15-7-A (rows=45, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS682379', 'NAGA KIRAN T', 'KA Central CBatch', 7, 'A', 9, 9, 9, 9, 9, 9, 54, 28, 34, 34, 27, 36, 31, 190, 37, 43, 43, 36, 45, 40, 244)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS479738', 'PEMMASANI LAKSHMINARAYANA NAIDU', 'KA Central CBatch', 7, 'A', 9, 9, 9, 8, 9, 7, 51, 36, 26, 30, 33, 30, 19, 174, 45, 35, 39, 41, 39, 26, 225)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS516634', 'PRAJOKTA MAHANTA', 'KA Central CBatch', 7, 'A', 8, 10, 8, 8, 10, 7, 51, 24, 26, 19, 21, 31, 21, 142, 32, 36, 27, 29, 41, 28, 193)
+
+  -- Sheet: 15-7-B (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS939239', 'JAYAVARDHAN SESHADRI', 'KA Central CBatch', 7, 'B', 10, 10, 9, 9, 9, 9, 56, 31, 36, 31, 38, 37, 36, 209, 41, 46, 40, 47, 46, 45, 265)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS854797', 'VINAY M', 'KA Central CBatch', 7, 'B', 10, 10, 10, 9, 10, 10, 59, 38, 39, 35, 40, 39, 38, 229, 48, 49, 45, 49, 49, 48, 288)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS857610', 'BHAVISHYA BALUSU', 'KA Central CBatch', 7, 'B', 'AB', 10, 8, 8, 8, 9, 43, 'AB', 34, 28, 28, 27, 33, 150, 'AB', 44, 36, 36, 35, 42, 193)
+
+  -- Sheet: 15-7-C (rows=48, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS800513', 'DEEKSHITHA K', 'KA Central CBatch', 7, 'C', 9, 9, 9, 9, 9, 9, 54, 31, 30, 37, 21, 25, 30, 174, 40, 39, 46, 30, 34, 39, 228)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS497272', 'SAI TEJAS T.P', 'KA Central CBatch', 7, 'C', 7, 7, 9, 5, 7, 9, 44, 30, 22, 33, 15, 28, 27, 155, 37, 29, 42, 20, 35, 36, 199)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS533811', 'NAVYASRI S', 'KA Central CBatch', 7, 'C', 9, 9, 9, 9, 9, 9, 54, 34, 39, 38, 22, 36, 29, 198, 43, 48, 47, 31, 45, 38, 252)
+
+  -- Sheet: 15-8-A (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS737685', 'HARSHIL PRASAN', 'KA Central CBatch', 8, 'A', 9, 9, 9, 9, 9, 10, 55, 31, 26, 34, 33, 39, 36, 199, 40, 35, 43, 42, 48, 46, 254)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS481389', 'YASHAS GANESH T', 'KA Central CBatch', 8, 'A', 9, 8, 9, 8, 8, 10, 52, 32, 20, 33, 27, 23, 40, 175, 41, 28, 42, 35, 31, 50, 227)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS496521', 'HAMSINI GUDELLI', 'KA Central CBatch', 8, 'A', 10, 9, 10, 10, 10, 8, 57, 35, 29, 33, 39, 37, 36, 209, 45, 38, 43, 49, 47, 44, 266)
+
+  -- Sheet: 15-8-B (rows=43, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS768201', 'SRI AARYAN REDDY DAGUMATI', 'KA Central CBatch', 8, 'B', 8, 9, 8, 9, 10, 10, 54, 32, 30, 19, 33, 36, 37, 187, 40, 39, 27, 42, 46, 47, 241)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS431984', 'JAHNAVI CHOWDARY V', 'KA Central CBatch', 8, 'B', 9, 9, 9, 10, 10, 9, 56, 34, 30, 22, 36, 35, 29, 186, 43, 39, 31, 46, 45, 38, 242)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS471618', 'SRI NIDHI SOMA ROWTHU', 'KA Central CBatch', 8, 'B', 8, 10, 8, 10, 10, 10, 56, 32, 36, 40, 39, 39, 37, 223, 40, 46, 48, 49, 49, 47, 279)
+
+  -- Sheet: 15-8-C (rows=43, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN POST MID Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS685370', 'ANWITHA GUJJALA', 'KA Central CBatch', 8, 'C', 8, 9, 10, 9, 10, 10, 56, 26, 27, 33, 23, 35, 35, 179, 34, 36, 43, 32, 45, 45, 235)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS536157', 'TAKSHEEL KUMAR G', 'KA Central CBatch', 8, 'C', 8, 9, 10, 10, 10, 10, 57, 23, 27, 31, 38, 36, 35, 190, 31, 36, 41, 48, 46, 45, 247)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS574170', 'SAKETH PRAVEEN', 'KA Central CBatch', 8, 'C', 9, 9, 10, 10, 10, 9, 57, 27, 35, 33, 38, 36, 25, 194, 36, 44, 43, 48, 46, 34, 251)
+
+============================================================
+ANNUAL: CBSE KA TN ANNUAL EXAM Marks Entry Format (1).xlsx
+Sheets: ['4-6-A', '4-6-B', '4-6-C', '4-7-A', '4-7-B', '4-7-C', '4-8-A', '4-8-B', '4-8-C', '15-6-A', '15-6-B', '15-6-C', '15-7-A', '15-7-B', '15-7-C', '15-8-A', '15-8-B', '15-8-C', '20-6-A', '20-6-B', '20-7-A', '20-8-A', '32-8-A']
+
+  -- Sheet: 4-6-A (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS930995', 'SHIVAM KUMAR', 'KA Central Techno', 6, 'A', 18, 18, 17, 16, 18, 18, 105, 32, 35, 48, 28, 39, 36, 218, 50, 53, 65, 44, 57, 54, 323)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS629222', 'ARYAN.S REDDY', 'KA Central Techno', 6, 'A', 15, 15, 16, 16, 16, 16, 94, 15, 28, 44, 35, 30, 27, 179, 30, 43, 60, 51, 46, 43, 273)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS636061', 'YEDLA JITIN', 'KA Central Techno', 6, 'A', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB', 'AB')
+
+  -- Sheet: 4-6-B (rows=34, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS690489', 'VARSHANA Y', 'KA Central Techno', 6, 'B', 17, 14, 17, 16, 17, 17, 98, 40, 20, 19, 28, 57, 28, 192, 57, 34, 36, 44, 74, 45, 290)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1214087', 'GRANDHI JASWANTH', 'KA Central Techno', 6, 'B', 15, 16, 15, 16, 15, 11, 88, 40, 31, 44, 43, 40, 29, 227, 55, 47, 59, 59, 55, 40, 315)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1050418', 'VISHAL S A', 'KA Central Techno', 6, 'B', 17, 16, 17, 19, 16, 17, 102, 42, 42, 51, 55, 45, 40, 275, 59, 58, 68, 74, 61, 57, 377)
+
+  -- Sheet: 4-6-C (rows=34, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS715388', 'SHRUTHIKA R', 'KA Central Techno', 6, 'C', 19, 18, 19, 17, 18, 17, 108, 50, 68, 71, 45, 63, 54, 351, 69, 86, 90, 62, 81, 71, 459)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1362620', 'TEJASHWINI GOWDA H', 'KA Central Techno', 6, 'C', 19, 18, 20, 18, 20, 18, 113, 53, 65, 74, 63, 74, 69, 398, 72, 83, 94, 81, 94, 87, 511)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1334055', 'GOWRAV R', 'KA Central Techno', 6, 'C', 15, 17, 15, 17, 18, 17, 99, 63, 53, 49, 45, 63, 51, 324, 78, 70, 64, 62, 81, 68, 423)
+
+  -- Sheet: 4-7-A (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS632478', 'SANDHYA S', 'KA Central Techno', 7, 'A', 20, 20, 19, 20, 19, 17, 115, 75, 74, 79, 74, 73, 72, 447, 95, 94, 98, 94, 92, 89, 562)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS570603', 'HAASINI S', 'KA Central Techno', 7, 'A', 19, 19, 17, 18, 20, 18, 111, 66, 80, 39, 57, 78, 72, 392, 85, 99, 56, 75, 98, 90, 503)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS571744', 'NANDAN KALLUR', 'KA Central Techno', 7, 'A', 18, 19, 18, 18, 18, 19, 110, 64, 74, 66, 46, 60, 63, 373, 82, 93, 84, 64, 78, 82, 483)
+
+  -- Sheet: 4-7-B (rows=36, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS1621669', 'K SAI SAATVIK NAIDU', 'KA Central Techno', 7, 'B', 17, 20, 17, 15, 17, 17, 103, 37, 47, 41, 13, 42, 42, 222, 54, 67, 58, 28, 59, 59, 325)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS848048', 'PRANAVI ACHARYA', 'KA Central Techno', 7, 'B', 20, 19, 19, 18, 20, 18, 114, 58, 56, 75, 61, 72, 48, 370, 78, 75, 94, 79, 92, 66, 484)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS849654', 'LAKSHAYA D', 'KA Central Techno', 7, 'B', 18, 18, 20, 18, 20, 17, 111, 51, 67, 44, 41, 54, 45, 302, 69, 85, 64, 59, 74, 62, 413)
+
+  -- Sheet: 4-7-C (rows=35, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS616218', 'JAYANTH GOWDA G.R.', 'KA Central Techno', 7, 'C', 15, 16, 15, 15, 16, 15, 92, 40, 36, 61, 16, 50, 38, 241, 55, 52, 76, 31, 66, 53, 333)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS859580', 'THANU SHREE. A', 'KA Central Techno', 7, 'C', 16, 20, 16, 15, 16, 15, 98, 53, 48, 32, 16, 41, 38, 228, 69, 68, 48, 31, 57, 53, 326)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS857877', 'KHUSHI.R .MAHENDRAKAR', 'KA Central Techno', 7, 'C', 20, 20, 20, 20, 19, 20, 119, 75, 79, 80, 74, 76, 74, 458, 95, 99, 100, 94, 95, 94, 577)
+
+  -- Sheet: 4-8-A (rows=42, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS641670', 'NAGA SANVITHA S', 'KA Central Techno', 8, 'A', 16, 18, 17, 16, 18, 17, 102, 49, 61, 44, 20, 55, 54, 283, 65, 79, 61, 36, 73, 71, 385)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS529488', 'MADIHA FATHIMA M', 'KA Central Techno', 8, 'A', 16, 15, 16, 17, 17, 16, 97, 51, 33, 30, 47, 59, 36, 256, 67, 48, 46, 64, 76, 52, 353)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS530559', 'DHASHINI S', 'KA Central Techno', 8, 'A', 15, 'AB', 16, 'AB', 14, 14, 59, 27, 'AB', 20, 'AB', 11, 16, 74, 42, 'AB', 36, 'AB', 25, 30, 133)
+
+  -- Sheet: 4-8-B (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS841250', 'VARSHITHA S', 'KA Central Techno', 8, 'B', 18, 18, 16, 18, 19, 18, 107, 70, 57, 52, 36, 72, 72, 359, 88, 75, 68, 54, 91, 90, 466)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS737816', 'SANTHOSH KUMAR T', 'KA Central Techno', 8, 'B', 15, 16, 14, 15, 15, 15, 90, 28, 17, 13, 11, 16, 15, 100, 43, 33, 27, 26, 31, 30, 190)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS738580', 'PRATUSHA M', 'KA Central Techno', 8, 'B', 17, 17, 19, 20, 17, 18, 108, 56, 29, 41, 38, 47, 44, 255, 73, 46, 60, 58, 64, 62, 363)
+
+  -- Sheet: 4-8-C (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS736744', 'THANU J.S', 'KA Central Techno', 8, 'C', 18, 18, 20, 18, 20, 20, 114, 65, 66, 74, 63, 78, 74, 420, 83, 84, 94, 81, 98, 94, 534)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS554774', 'HARSHINI A', 'KA Central Techno', 8, 'C', 18, 17, 18, 16, 20, 18, 107, 70, 54, 53, 32, 75, 65, 349, 88, 71, 71, 48, 95, 83, 456)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS605911', 'DHRUVIKA S N', 'KA Central Techno', 8, 'C', 17, 16, 20, 17, 17, 18, 105, 65, 51, 79, 41, 55, 63, 354, 82, 67, 99, 58, 72, 81, 459)
+
+  -- Sheet: 15-6-A (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS829543', 'AARADHYA MAHARATHI', 'KA Central CBatch', 6, 'A', 18, 20, 20, 18, 19, 19, 114, 51, 64, 73, 53, 65, 55, 361, 69, 84, 93, 71, 84, 74, 475)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS684894', 'NIRANJANA C S', 'KA Central CBatch', 6, 'A', 19, 15, 16, 18, 20, 19, 107, 68, 41, 52, 55, 76, 57, 349, 87, 56, 68, 73, 96, 76, 456)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS685932', 'KUSHITHA Y', 'KA Central CBatch', 6, 'A', 18, 17, 17, 18, 19, 19, 108, 58, 43, 51, 56, 64, 50, 322, 76, 60, 68, 74, 83, 69, 430)
+
+  -- Sheet: 15-6-B (rows=40, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS680141', 'SHOSSANA NASYA MANNE', 'KA Central CBatch', 6, 'B', 18, 18, 17, 16, 15, 17, 101, 41, 34, 63, 41, 41, 67, 287, 59, 52, 80, 57, 56, 84, 388)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1717112', 'YUVIKA GAUR', 'KA Central CBatch', 6, 'B', 18, 19, 18, 16, 18, 19, 108, 50, 49, 78, 33, 70, 63, 343, 68, 68, 96, 49, 88, 82, 451)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1719739', 'HARSH TIWARI', 'KA Central CBatch', 6, 'B', 18, 19, 19, 19, 19, 19, 113, 74, 73, 76, 69, 64, 74, 430, 92, 92, 95, 88, 83, 93, 543)
+
+  -- Sheet: 15-6-C (rows=38, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS685988', 'MANASVI G', 'KA Central CBatch', 6, 'C', 17, 15, 17, 18, 17, 20, 104, 45, 53, 69, 59, 64, 62, 352, 62, 68, 86, 77, 81, 82, 456)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1734541', 'P BHAVADEEP REDDY', 'KA Central CBatch', 6, 'C', 18, 14, 18, 18, 17, 18, 103, 56, 35, 64, 59, 63, 60, 337, 74, 49, 82, 77, 80, 78, 440)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS1754306', 'PRANAV M', 'KA Central CBatch', 6, 'C', 15, 12, 17, 16, 16, 16, 92, 22, 13, 74, 58, 28, 24, 219, 37, 25, 91, 74, 44, 40, 311)
+
+  -- Sheet: 15-7-A (rows=45, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS682379', 'NAGA KIRAN T', 'KA Central CBatch', 7, 'A', 19, 18, 18, 18, 19, 19, 111, 75, 73, 77, 71, 74, 71, 441, 94, 91, 95, 89, 93, 90, 552)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS479738', 'PEMMASANI LAKSHMINARAYANA NAIDU', 'KA Central CBatch', 7, 'A', 17, 16, 18, 18, 16, 17, 102, 51, 76, 70, 64, 51, 44, 356, 68, 92, 88, 82, 67, 61, 458)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS516634', 'PRAJOKTA MAHANTA', 'KA Central CBatch', 7, 'A', 18, 18, 19, 16, 18, 18, 107, 60, 64, 57, 40, 71, 67, 359, 78, 82, 76, 56, 89, 85, 466)
+
+  -- Sheet: 15-7-B (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS939239', 'JAYAVARDHAN SESHADRI', 'KA Central CBatch', 7, 'B', 18, 18, 18, 17, 17, 15, 103, 58, 71, 71, 71, 71, 52, 394, 76, 89, 89, 88, 88, 67, 497)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS854797', 'VINAY M', 'KA Central CBatch', 7, 'B', 20, 20, 20, 20, 20, 20, 120, 75, 60, 75, 76, 80, 78, 444, 95, 80, 95, 96, 100, 98, 564)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS857610', 'BHAVISHYA BALUSU', 'KA Central CBatch', 7, 'B', 19, 18, 15, 18, 18, 18, 106, 44, 56, 54, 61, 76, 56, 347, 63, 74, 69, 79, 94, 74, 453)
+
+  -- Sheet: 15-7-C (rows=48, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS800513', 'DEEKSHITHA K', 'KA Central CBatch', 7, 'C', 15, 13, 16, 13, 16, 17, 90, 67, 43, 60, 39, 47, 42, 298, 82, 56, 76, 52, 63, 59, 388)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS497272', 'SAI TEJAS T.P', 'KA Central CBatch', 7, 'C', 16, 19, 15, 13, 17, 17, 97, 70, 61, 74, 31, 67, 69, 372, 86, 80, 89, 44, 84, 86, 469)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS533811', 'NAVYASRI S', 'KA Central CBatch', 7, 'C', 17, 16, 17, 20, 18, 17, 105, 72, 56, 63, 70, 70, 60, 391, 89, 72, 80, 90, 88, 77, 496)
+
+  -- Sheet: 15-8-A (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS737685', 'HARSHIL PRASAN', 'KA Central CBatch', 8, 'A', 20, 20, 18, 19, 19, 19, 115, 62, 55, 71, 64, 73, 52, 377, 82, 75, 89, 83, 92, 71, 492)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS481389', 'YASHAS GANESH T', 'KA Central CBatch', 8, 'A', 18, 18, 18, 18, 19, 19, 110, 72, 52, 67, 51, 68, 66, 376, 90, 70, 85, 69, 87, 85, 486)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS496521', 'HAMSINI GUDELLI', 'KA Central CBatch', 8, 'A', 19, 18, 18, 19, 18, 18, 110, 64, 47, 75, 70, 68, 60, 384, 83, 65, 93, 89, 86, 78, 494)
+
+  -- Sheet: 15-8-B (rows=43, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS768201', 'SRI AARYAN REDDY DAGUMATI', 'KA Central CBatch', 8, 'B', 19, 18, 17, 20, 20, 20, 114, 67, 52, 48, 67, 74, 62, 370, 86, 70, 65, 87, 94, 82, 484)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS431984', 'JAHNAVI CHOWDARY V', 'KA Central CBatch', 8, 'B', 20, 19, 19, 20, 20, 19, 117, 62, 51, 49, 76, 72, 69, 379, 82, 70, 68, 96, 92, 88, 496)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS471618', 'SRI NIDHI SOMA ROWTHU', 'KA Central CBatch', 8, 'B', 20, 19, 20, 19, 20, 20, 118, 71, 69, 77, 67, 77, 64, 425, 91, 88, 97, 86, 97, 84, 543)
+
+  -- Sheet: 15-8-C (rows=43, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS685370', 'ANWITHA GUJJALA', 'KA Central CBatch', 8, 'C', 19, 20, 20, 20, 20, 19, 118, 64, 50, 75, 78, 76, 64, 407, 83, 70, 95, 98, 96, 83, 525)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS536157', 'TAKSHEEL KUMAR G', 'KA Central CBatch', 8, 'C', 17, 17, 17, 18, 20, 19, 108, 59, 54, 45, 65, 75, 60, 358, 76, 71, 62, 83, 95, 79, 466)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS574170', 'SAKETH PRAVEEN', 'KA Central CBatch', 8, 'C', 18, 18, 19, 17, 20, 20, 112, 60, 71, 68, 58, 76, 44, 377, 78, 89, 87, 75, 96, 64, 489)
+
+  -- Sheet: 20-6-A (rows=39, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS869805', 'GUJJALA NIHAL SAISIREESH REDDY', 'KA Central IPL', 6, 'A', 17, 17, 16, 20, 20, 20, 110, 55, 58, 61, 70, 72, 68, 384, 72, 75, 77, 90, 92, 88, 494)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS590489', 'ARUNAVA BHATTACHARYA', 'KA Central IPL', 6, 'A', 19, 19, 12, 19, 18, 19, 106, 71, 73, 36, 64, 77, 67, 388, 90, 92, 48, 83, 95, 86, 494)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS610805', 'HAVISH RAJ V.V', 'KA Central IPL', 6, 'A', 18, 17, 17, 18, 19, 17, 106, 67, 53, 79, 63, 75, 71, 408, 85, 70, 96, 81, 94, 88, 514)
+
+  -- Sheet: 20-6-B (rows=41, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS702016', 'SIMRA SHAIK', 'KA Central IPL', 6, 'B', 20, 20, 20, 20, 20, 20, 120, 75, 70, 79, 71, 78, 79, 452, 95, 90, 99, 91, 98, 99, 572)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS574603', 'SAMANVITHA. M.V', 'KA Central IPL', 6, 'B', 20, 20, 20, 20, 20, 20, 120, 77, 79, 79, 72, 78, 77, 462, 97, 99, 99, 92, 98, 97, 582)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS581358', 'AANIYAH SIDIQ', 'KA Central IPL', 6, 'B', 20, 20, 17, 18, 20, 20, 115, 72, 47, 43, 69, 74, 73, 378, 92, 67, 60, 87, 94, 93, 493)
+
+  -- Sheet: 20-7-A (rows=31, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS481252', 'AKSHAYA RAO CHINTHAKANI', 'KA Central IPL', 7, 'A', 20, 20, 20, 20, 20, 20, 120, 72, 78, 78, 76, 77, 69, 450, 92, 98, 98, 96, 97, 89, 570)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS997740', 'YAGNA SREE YARAGONDA', 'KA Central IPL', 7, 'A', 20, 20, 20, 20, 20, 20, 120, 71, 73, 74, 78, 78, 77, 451, 91, 93, 94, 98, 98, 97, 571)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS978111', 'ARAVA VENKATA MOKSHITHA REDDY', 'KA Central IPL', 7, 'A', 19, 20, 20, 20, 20, 20, 119, 64, 59, 56, 74, 77, 68, 398, 83, 79, 76, 94, 97, 88, 517)
+
+  -- Sheet: 20-8-A (rows=28, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS482256', 'DESHNA K', 'KA Central IPL', 8, 'A', 20, 20, 20, 19, 20, 19, 118, 80, 70, 72, 42, 76, 74, 414, 100, 90, 92, 61, 96, 93, 532)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS520012', 'SAMRUDH M', 'KA Central IPL', 8, 'A', 20, 20, 20, 19, 20, 19, 118, 74, 72, 76, 60, 62, 70, 414, 94, 92, 96, 79, 82, 89, 532)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS919736', 'KARTHIK REDDY M', 'KA Central IPL', 8, 'A', 20, 19, 20, 19, 20, 19, 117, 74, 74, 74, 78, 72, 78, 450, 94, 93, 94, 97, 92, 97, 567)
+
+  -- Sheet: 32-8-A (rows=21, cols=29) --
+  Row 1: ('SRI CHAITANYA SCHOOL -INDIA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 2: ('CBSE KA TN ANNUAL EXAM Marks Entry Format', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  Row 3: ('SL', 'Zone', 'Branch', 'Admin No', 'Student Name', 'Orientation', 'Class', 'Sec', 'FL Sub', 'SL Sub', 'TL Sub', 'Mat Sub', 'GS Sub', 'SS Sub', 'Total Sub', 'FL Main', 'SL Main', 'TL Main', 'Mat Main', 'GS Main', 'SS Main', 'Total Main', 'FL', 'SL', 'TL', 'Mat', 'GS', 'SS', 'Total')
+  Row 4: (1, 'Bengaluru', 'KR PURAM', 'SCS466152', 'ILACKYA R', 'KA Central MPL', 8, 'A', 19, 17, 18, 16, 18, 19, 107, 74, 36, 66, 18, 66, 78, 338, 93, 53, 84, 34, 84, 97, 445)
+  Row 5: (2, 'Bengaluru', 'KR PURAM', 'SCS1747850', 'LIKSHITH U', 'KA Central MPL', 8, 'A', 19, 19, 18, 18, 19, 19, 112, 70, 68, 68, 56, 76, 78, 416, 89, 87, 86, 74, 95, 97, 528)
+  Row 6: (3, 'Bengaluru', 'KR PURAM', 'SCS805102', 'MOUNIKA Y', 'KA Central MPL', 8, 'A', 20, 20, 19, 19, 20, 19, 117, 74, 74, 76, 70, 76, 72, 442, 94, 94, 95, 89, 96, 91, 559)
